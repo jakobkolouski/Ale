@@ -20,3 +20,4 @@ snarkos developer deploy "${APPNAME}.aleo" --private-key "${PRIVATEKEY}" --query
 Toro
 @Shima
 #Kage
+&Tora
